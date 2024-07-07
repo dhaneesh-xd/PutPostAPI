@@ -1,1 +1,1 @@
-# PutPostAPI
+This project is a Winform application that uses the HttpClient class. It's designed to interact with an ASP.NET Web API. The Winform can perform different actions like getting data (GET), sending new data (POST), updating existing data (PUT), and deleting data (DELETE)
